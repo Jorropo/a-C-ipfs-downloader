@@ -1,6 +1,6 @@
 # Fast-IPFS
 
-Fast IPFS is C data oriented implementation of IPFS that aims multi Gigabytes per second speeds.
+Fast IPFS is C data oriented implementation of IPFS that aims multi Gigabytes per second speeds focusing on speed rather than correctness or security.
 
 It's mostly also me wanting to write some more C code.
 
