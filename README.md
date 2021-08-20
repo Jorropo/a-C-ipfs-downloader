@@ -12,9 +12,9 @@ I'm not a good C programer, be aware this software has bugs.
 
 # Implemented Libs
 
-- [Unsigned-varuint](https://github.com/multiformats/unsigned-varint)
-  - [varuint.h](./varuint.h)
-  - [varuint.c](./varuint.c)
+### [Unsigned-varuint](https://github.com/multiformats/unsigned-varint)
+- [varuint.h](./varuint.h)
+- [varuint.c](./varuint.c)
 
 # Requirement
 
