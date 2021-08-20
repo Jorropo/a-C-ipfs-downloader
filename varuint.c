@@ -1,6 +1,5 @@
 /*
-    This implements the varuint <https://github.com/multiformats/unsigned-varint>
-    specification.
+    This implements the varuint <https://github.com/multiformats/unsigned-varint> specification.
 */
 
 #include "varuint.h"
